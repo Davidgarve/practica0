@@ -7,7 +7,7 @@ files:
   - name: src/Chessboard.java
     visible: true
     placeholders:
-      - offset: 372
+      - offset: 393
         length: 200
         placeholder_text: /* Create and print a chessboard. */
         initial_state:
@@ -26,5 +26,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Mon, 18 Sep 2023 20:06:03 UTC"
+  time: "Tue, 19 Sep 2023 10:37:15 UTC"
 record: -1
