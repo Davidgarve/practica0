@@ -1,4 +1,5 @@
 public class Chessboard
+        //Clase para elaborar tablero de ajederez
 {
    public static void main(String[] args)
    {
@@ -12,6 +13,7 @@ public class Chessboard
             else
                chessboard[y][x] = '\u25A0';
          }
+
       }
       for (char[] row: chessboard)
       {
